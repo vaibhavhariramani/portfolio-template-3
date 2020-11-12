@@ -1,7 +1,7 @@
 # Responsive Portfolio Website template
 
 A Resume-Portfolio template for anyone.
-## See the [Demo](https://mozilla-chandigarh.github.io/my_portfolio/)
+## See the [Demo](https://vaibhavhariaramani.github.io/portfolio-template-3/)
 # How to get your own portfolio website?
 ## Git Commands
 Here are the commands you will need to get the work done.
